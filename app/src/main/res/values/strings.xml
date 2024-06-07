@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pifagor</string>
+    <string name="title_text">Вычисления по теореме Пифагора</string>
+    <string name="title_text_layout2">Окно ввода данных</string>
+    <string name="text_hipotenusa_layout2">Введите гипотенузу С</string>
+    <string name="text_katet1_layout2">Введите катет А</string>
+    <string name="text_katet2_layout2">Введите катет В</string>
+    <string name="text_result">Результат</string>
+    <string name="text_result_hipotenusa">Гипотенуза</string>
+    <string name="text_result_katet1">Катет 1</string>
+    <string name="text_result_katet2">Катет 2</string>
+    <string name="bt_hipotenusa">Вычислить гипотенузу</string>
+    <string name="bt_katet">Вычислить катет</string>
+    <string name="bt_result">Вычислить</string>
+</resources>
